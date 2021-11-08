@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565745386705",
+    "project_id": "social-app-bc0e6",
+    "storage_bucket": "social-app-bc0e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565745386705:android:5fcd6d9f8a726dfed0b1f0",
+        "android_client_info": {
+          "package_name": "com.incevio.zcart_marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565745386705-mop355siq0dbpcuv3a9el12ln2ibh7tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmcuPAOSgdXftyL6R8rkCfRENLzmu4Gxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565745386705-mop355siq0dbpcuv3a9el12ln2ibh7tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
